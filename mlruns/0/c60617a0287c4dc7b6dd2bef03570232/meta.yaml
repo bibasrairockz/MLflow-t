@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bibas/MLflow-t/mlruns/0/c60617a0287c4dc7b6dd2bef03570232/artifacts
+end_time: 1713352337903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c60617a0287c4dc7b6dd2bef03570232
+run_name: trusting-mole-777
+run_uuid: c60617a0287c4dc7b6dd2bef03570232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713352337888
+status: 3
+tags: []
+user_id: bibas

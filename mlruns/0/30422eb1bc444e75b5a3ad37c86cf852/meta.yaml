@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bibas/MLflow-t/mlruns/0/30422eb1bc444e75b5a3ad37c86cf852/artifacts
+end_time: 1713352463937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30422eb1bc444e75b5a3ad37c86cf852
+run_name: agreeable-newt-176
+run_uuid: 30422eb1bc444e75b5a3ad37c86cf852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713352463924
+status: 3
+tags: []
+user_id: bibas

@@ -1,0 +1,11 @@
+conda create -p env python==3.8 -y  
+conda activate ./env  
+cls
+pip install -r requirements.txt  
+python  
+import mlflow  
+import pandas  
+exit()  
+
+//writing mlflow code in experiments//
+python experiments.py
